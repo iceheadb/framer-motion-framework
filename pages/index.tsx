@@ -1,3 +1,9 @@
+import Layout from "../components/Layout";
+
 export default function Home() {
-  return <h1>Icehead Victor Lopes</h1>
+  return (
+    <Layout>
+      <div />
+    </Layout>
+  )
 }
